@@ -1,0 +1,1 @@
+docker push douglampe/mkdocs:latest
