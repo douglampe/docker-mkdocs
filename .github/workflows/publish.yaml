@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  restart:
+  publish:
+    name: Publish
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
